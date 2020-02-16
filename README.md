@@ -1,2 +1,2 @@
 # Coursera_Capstone
-Coursera Capstone Module
+Coursera Capstone Repository
